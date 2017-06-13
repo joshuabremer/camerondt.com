@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Etchings &#8211; Cameron Thomson</title>
+	<atom:link href="/category/etchings/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2011 18:00:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Landscape</title>
+		<link>/2006/01/01/landscape/</link>
+		<pubDate>Sun, 01 Jan 2006 02:28:13 +0000</pubDate>
+		<dc:creator><![CDATA[josh]]></dc:creator>
+				<category><![CDATA[Etchings]]></category>
+
+		<guid isPermaLink="false">/?p=417</guid>
+		<description><![CDATA[<img width="253" height="288" src="/wp-content/uploads/LandStd-253x288.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="/wp-content/uploads/LandStd-253x288.jpg 253w, /wp-content/uploads/LandStd-435x494.jpg 435w, /wp-content/uploads/LandStd-528x600.jpg 528w, /wp-content/uploads/LandStd-800x908.jpg 800w" sizes="(max-width: 253px) 100vw, 253px" />]]></description>
+	<img width="253" height="288" src="/wp-content/uploads/LandStd-253x288.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="/wp-content/uploads/LandStd-253x288.jpg 253w, /wp-content/uploads/LandStd-435x494.jpg 435w, /wp-content/uploads/LandStd-528x600.jpg 528w, /wp-content/uploads/LandStd-800x908.jpg 800w" sizes="(max-width: 253px) 100vw, 253px" />			<content:encoded><![CDATA[<p></p><br />
+<a href='/2006/01/01/landscape/landstds1/'><img width="188" height="188" src="/wp-content/uploads/LandStdS1-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/2006/01/01/landscape/landstd/'><img width="188" height="188" src="/wp-content/uploads/LandStd-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/2006/01/01/landscape/landstdd2/'><img width="188" height="188" src="/wp-content/uploads/LandStdD2-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/2006/01/01/landscape/landstdd1/'><img width="188" height="188" src="/wp-content/uploads/LandStdD1-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Spiral</title>
+		<link>/2006/01/01/spiral/</link>
+		<pubDate>Sun, 01 Jan 2006 02:24:09 +0000</pubDate>
+		<dc:creator><![CDATA[josh]]></dc:creator>
+				<category><![CDATA[Etchings]]></category>
+
+		<guid isPermaLink="false">/?p=406</guid>
+		<description><![CDATA[<img width="288" height="216" src="/wp-content/uploads/SpiralLRD1-288x216.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="/wp-content/uploads/SpiralLRD1-288x216.jpg 288w, /wp-content/uploads/SpiralLRD1-494x370.jpg 494w, /wp-content/uploads/SpiralLRD1-800x600.jpg 800w" sizes="(max-width: 288px) 100vw, 288px" />]]></description>
+	<img width="288" height="216" src="/wp-content/uploads/SpiralLRD1-288x216.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="/wp-content/uploads/SpiralLRD1-288x216.jpg 288w, /wp-content/uploads/SpiralLRD1-494x370.jpg 494w, /wp-content/uploads/SpiralLRD1-800x600.jpg 800w" sizes="(max-width: 288px) 100vw, 288px" />			<content:encoded><![CDATA[<p></p><br />
+<a href='/2006/01/01/spiral/brokenspiral/'><img width="188" height="188" src="/wp-content/uploads/BrokenSpiral-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/2006/01/01/spiral/spirall1/'><img width="188" height="188" src="/wp-content/uploads/SpiralL1-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/2006/01/01/spiral/spirall1d2-1/'><img width="188" height="188" src="/wp-content/uploads/SpiralL1D2.1-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/2006/01/01/spiral/spirall1d1/'><img width="188" height="188" src="/wp-content/uploads/SpiralL1D1-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/2006/01/01/spiral/spirallr1/'><img width="188" height="188" src="/wp-content/uploads/SpiralLR1-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/2006/01/01/spiral/spirallrd2/'><img width="188" height="188" src="/wp-content/uploads/SpiralLRD2-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/2006/01/01/spiral/spirallrd1/'><img width="188" height="188" src="/wp-content/uploads/SpiralLRD1-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

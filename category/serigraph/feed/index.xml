@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Serigraph &#8211; Cameron Thomson</title>
+	<atom:link href="/category/serigraph/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 05 Aug 2011 18:00:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Serigraphs</title>
+		<link>/2006/01/01/various-serigraphs/</link>
+		<pubDate>Sun, 01 Jan 2006 03:08:34 +0000</pubDate>
+		<dc:creator><![CDATA[josh]]></dc:creator>
+				<category><![CDATA[Serigraph]]></category>
+
+		<guid isPermaLink="false">/?p=487</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p></p><br />
+<a href='/2006/01/01/various-serigraphs/redchip/'><img width="188" height="188" src="/wp-content/uploads/RedChiP-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/2006/01/01/various-serigraphs/ring/'><img width="188" height="188" src="/wp-content/uploads/RinG-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='/2006/01/01/various-serigraphs/grnchip-1/'><img width="188" height="188" src="/wp-content/uploads/GrnChiP.1-188x188.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
